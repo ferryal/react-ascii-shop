@@ -1,0 +1,15 @@
+build
+node_modules
+public
+
+# TODO: delete when v3 codes removed
+src/**/v3/**
+src/components/Footer/**
+src/components/Header/**
+src/components/HeaderMobile/**
+src/components/HeaderRegister/**
+src/components/Logout/**
+src/components/Modal/**
+src/components/Notification/**
+src/components/pagination/**
+src/components/v4/Layout/**
