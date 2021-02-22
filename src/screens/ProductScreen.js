@@ -36,7 +36,7 @@ const ProductScreen = (props) => {
 
             if (!end) {
                 dispatch(fetchProducts(page));
-                let products   = [];
+                let product   = [];
                 products.forEach(product => {
                     products.push(product);
                 });
